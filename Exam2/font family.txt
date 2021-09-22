@@ -1,0 +1,6 @@
+Exam 2 Display flex without responsive 
+
+Template link: https://cutt.ly/cma0WgH
+All images with video: https://cutt.ly/hma0oQ8
+Font family: Body font ( Heebo  ), Header font: ( Roboto )
+Icon Name:  play, angle double right, arrow circle right, check circle, user, comment, location, call, mail.
